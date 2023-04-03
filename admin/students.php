@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-sm-8 text-left"> 
 			<br>
-			<h2>Your Courses</h2>
+			<h2>Student List</h2>
 				<table border="1">
 					<tr>
 						<th style='padding: 15px;'>Student ID</th>
